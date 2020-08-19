@@ -1,11 +1,11 @@
 # Libgen App
 <hr>
 The purpose of these designs are to help me in developing an application (primarily on Android) that mimics Libgen and it's functionality as best I can.
-
+<br>
 One of my main weaknesses in design, so far as I've been able to recognize, is my lack of ability in drawing/illustrating. It's something I desire to improve alot, and yet still remain quite inept at it. 
-
+<br>
 And yet, I think it'd be funny and a better experience overall, if there were silly illustrations/drawings for each category of books/ideas. (it's not silly because I mean to do that, it's silly because that's how terrible I am at creating these illustrations, etc) 
-
+<br>
 Github isn't exactly the place to state opinions, but I personally love Libgen and it's mission of spreading knowledge, of works, and art, and science... 
 
 
