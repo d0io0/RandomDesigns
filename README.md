@@ -16,8 +16,8 @@ Starting off with these 2 categories should do it:
 <hr> 
 Some designs I like, and you might also: 
 
-<img src="https://github.com/dev-segal/RandomDesigns/blob/master/Web%201366%20%E2%80%93%201%402x.png" />
-<img src="https://github.com/dev-segal/RandomDesigns/blob/master/Web%201366%20%E2%80%93%203%402x.png" />
+<img src="https://github.com/dev-segal/RandomDesigns/blob/master/websites/dev-blog/Web%201366%20%E2%80%93%201%402x.png" />
+<img src="https://github.com/dev-segal/RandomDesigns/blob/master/websites/dev-blog/Web%201366%20%E2%80%93%203%402x.png" />
 
 # License 
 <hr>
