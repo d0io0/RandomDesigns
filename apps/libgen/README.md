@@ -1,6 +1,6 @@
 # Libgen App
 <hr>
-The purpose of these designs are to help me in developing an application (primarily on Android) that mimics Libgen and it's functionality as best I can.
+The purpose of these designs are to help me in developing an application (primarily on Android) that mimics Libgen and it's functionality as best I can. 
 
 
 One of my main weaknesses in design, so far as I've been able to recognize, is my lack of ability in drawing/illustrating. It's something I desire to improve alot, and yet still remain quite inept at it. 
