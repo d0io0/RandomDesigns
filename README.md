@@ -14,6 +14,9 @@ Starting off with these 2 categories should do it:
 
 # License 
 <hr>
-```code
+
+```
+
 Nothing here. You can do with these designs as you please. 
+
 ```
