@@ -14,6 +14,4 @@ Github isn't exactly the place to state opinions, but I personally love Libgen a
 # Examples
 <hr>
 Some images from the folder: 
-<img src="https://github.com/dev-segal/RandomDesigns/blob/master/apps/libgen/Detailed%20recommendations%20view%2C%20DR%20View%20%E2%80%93%201.png" />
-<img src="https://github.com/dev-segal/RandomDesigns/blob/master/apps/libgen/content%20view%20%E2%80%93%201.png" />
-<img src="https://github.com/dev-segal/RandomDesigns/blob/master/apps/libgen/search%20view%20loading%20results.png" />
+<img src="https://github.com/dev-segal/RandomDesigns/blob/master/apps/libgen/designs.png" />
