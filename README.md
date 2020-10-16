@@ -24,6 +24,6 @@ Some designs I like, and you might also:
 
 ```
 
-Nothing here. You can do with these designs as you please. 
+Nothing here. You can do with these designs as you please.    
 
 ```
