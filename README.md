@@ -9,7 +9,7 @@ As soon as I've aggregated a decent amount of design work here, I'll start categ
 Starting off with these 2 categories should do it: 
 
 1. Apps  
-
+ 
 2. Websites (web-page concepts, or even entire websites)  
 
 # Examples
